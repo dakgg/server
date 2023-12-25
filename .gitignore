@@ -1,0 +1,13 @@
+
+# main
+server.main/bin/
+server.main/obj/
+server.main/.vscode
+
+# client
+server.client/.vscode
+server.client/Library
+server.client/Logs
+server.client/UserSettings
+server.client/Temp
+server.client/*.csproj
